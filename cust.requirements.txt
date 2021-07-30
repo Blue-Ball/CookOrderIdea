@@ -1,0 +1,65 @@
+- Customer Order
+Main getDishes
+	kind(breakfast, lunch, dinner)
+	sort by
+	search
+	Item(Dish Name, Chef Name, Price, Image)	
+
+Dish Detail
+	Dish Name
+	Chef Name
+	Video
+	get ingredients(no, item name, qty)
+	set req per ingredient(Change Qty)
+	Live Chat
+	Description
+	Add to Cart or Pay(missed)
+
+Completed / Live orders
+	Kind(Completed, Live, All)
+	Search
+	Orders List(Dish Name, Date, Chef Name, Status)
+
+
+- Customer My Cart
+Main Get Dishes (same as Order)
+
+My Cart
+	Total Amount
+	Purchase All
+	Get Pending Payments( Dish Name, Date, Chef Name, Price, Image)
+	Edit Delete Features
+	Buy Now Feature
+
+Order Detail
+	Dish Detail
+	Cook Name, Time
+	Dish Name
+	Chef Name
+	get ingredients(no, item name, qty)
+	set req per ingredient
+	Additional Ingredients
+	Additional Instructions to Cook(Customer Requirements)
+	Designated Name (Designated Pickup)
+	Store Cooking Video (Yes or No)
+	Price, Tip(Editable)
+	Ready To Live
+	
+Delivery Mode
+	Select Existing Designated Pickup
+	Create New Designated Pickup( File, Name, Pickup Code)
+	
+Payment
+	Use Payment Gateway and process pay successful.
+
+- Customer Wallet
+Main Get Dishes (same as Order)
+
+Add Money(Price)
+	Deposit Money from Payment gateway and store it to wallet.
+
+Payments History
+	All Payments(Incoming, Outcoming)
+	Search
+	Payment Item(Dish Name, Date, PaymentMethod, Price(+/-))
+

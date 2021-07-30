@@ -1,0 +1,13 @@
+Chef-
+
+Orders Apis to get upcoming and past orders
+search orders
+filter orders ny date and completed or uncomplete
+Earnings to get earnings or chef
+
+
+Customer-
+Add to cart
+Add to wishlist, remove from wishlist, list of wishlist item
+Wallet
+My orders
